@@ -1,4 +1,3 @@
-
 class MyList:
     def __init__(self, *data):
         self.capacity = len(data)
